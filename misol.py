@@ -1,2 +1,3 @@
-# buni ichida codelar bo'lishi kerak edi.
+# buni ichida codelar kerak edi.
 
+# bu ikinchi o'zgarish
